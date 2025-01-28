@@ -1,2 +1,3 @@
 # JavaProjects
-Contains all Java projects I have done in College
+Contains all Java projects I have done in College or elsewhere
+
