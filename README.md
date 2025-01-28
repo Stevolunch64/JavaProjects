@@ -9,3 +9,6 @@ A GUI Program that keeps track of score in a match and a makeshift shop
 
 Minesweeper:
 A Minesweeper type game where I was one of the people working on it 
+
+Slangman:
+A hangman game where the words are Irish slang terms
